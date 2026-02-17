@@ -1,5 +1,7 @@
 # OOPSBannerApp
-its object oriented learning project
 
-
-its my demo commit
+public class OOPSBannerApp{
+    public static void main(String[]args){
+        System.out.println(x:"OOPS");
+    }
+}
